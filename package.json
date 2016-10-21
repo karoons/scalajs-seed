@@ -1,0 +1,19 @@
+{
+  "name": "bear-js",
+  "version": "1.0.0",
+  "description": "PoC node web application with Scala-Js",
+  "main": "index.js",
+  "author": "Peerapat A.",
+  "license": "CC BY v4.0",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "jsdom": "^9.8.0",
+    "source-map-support": "^0.4.5"
+  }
+}
